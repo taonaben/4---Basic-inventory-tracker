@@ -12,6 +12,6 @@
 #### db_port = "5432"
 ### )
 
-### 2: Run database.sql file
+2: Run database.sql file
 
-### 3: execute main.py file
+3: execute main.py file
